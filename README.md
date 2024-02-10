@@ -27,4 +27,4 @@ As seguintes ferramentas foram usadas na construção do projeto
 - Recursos AWS
 
 #### Você pode praticar e aprender mais no link abaixo
-[Python Programming for AWS - Learn Python with AWS and Boto3](https://www.udemy.com/course/python-programming-for-aws-with-boto3/learn/lecture/39243788#overview)
+[Python Programming for AWS - Learn Python with AWS and Boto3](https://www.udemy.com/course/python-programming-for-aws-with-boto3/)
