@@ -3,7 +3,7 @@
 <img width="80" height="80" alt="Python Icon"
      src="/assets/4518857_python_icon.png" align="right">
 
-<img width="80" height="80" alt="Python Icon"
+<img width="80" height="80" alt="AWS Icon"
      src="/assets/8546827_aws_icon.png" align="right">
 
 ## Descrição do Projeto
