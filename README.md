@@ -1,8 +1,12 @@
-<h1 align="center"> Python Programming for AWS - Learn Python with AWS and Boto3 </h1>
+<h1 > Python Programming for AWS - Learn Python with AWS and Boto3 </h1>
+
+<img width="120" height="120" alt="Browserslist logo by Anton Popov"
+     src="/assets/4518857_python_icon.png" align="right">
 
 ## Descrição do Projeto
-<p>Projeto com as práticas do curso Python Programming for AWS.</p>
-<p>Utilizado para aprimorar aprendizados em Python com recursos AWS.</p>
+
+- Projeto com as práticas do curso Python Programming for AWS. Utilizado para aprimorar aprendizados em Python com recursos AWS.
+
 
 ### Módulos
 - [x] Learn Python programming fundamentals
