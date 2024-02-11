@@ -1,8 +1,8 @@
-#print string
+# print string
 print("Hello World!")
 
-#print integer
+# print integer
 print(32)
 
-#Concat and print
+# Concat and print
 print("Hello World!\n" + str(32))

@@ -1,5 +1,6 @@
 """Create a dictionary of AWS services and modify the dictionary appropriately."""
 
+
 def main():
     # Create a dictionary of AWS services and their descriptions
     aws_services = {
@@ -8,7 +9,7 @@ def main():
         'EC2': "Elastic compute cloud"
     }
 
-    #Print the dictionary
+    # Print the dictionary
     print("Simple dictionary of AWS services and their descriptions:")
     print(aws_services)
 
@@ -36,7 +37,7 @@ def main():
     # Modify the dictionary to add a nested structure with additional information (lanch_year)
     aws_services['EC2'] = {
         'description': "Elastic compute cloud",
-        'lanch_year': "2006"
+        'launch_year': "2006"
     }
 
     # Print the modified dictionary with nested structure

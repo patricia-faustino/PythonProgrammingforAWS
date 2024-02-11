@@ -3,6 +3,7 @@ The create_shoe function takes a list of materials as input and
 determines the type of shoe created based on those materials.
 """
 
+
 def main():
     # Determine the shoe types based on the materials provided
     materials_1 = ['leather', 'rubber']
