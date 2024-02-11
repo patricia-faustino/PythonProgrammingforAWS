@@ -1,12 +1,17 @@
-<h1 align="center"> Python Programming for AWS - Learn Python with AWS and Boto3 </h1>
+<h1 > Python Programming for AWS - Learn Python with AWS and Boto3 </h1>
+
+<img width="80" height="80" alt="Python Icon"
+     src="/assets/4518857_python_icon.png" align="right">
+
+<img width="80" height="80" alt="Python Icon"
+     src="/assets/8546827_aws_icon.png" align="right">
 
 ## Descrição do Projeto
-<p>Projeto com as práticas do curso Python Programming for AWS.</p>
-<p>Utilizado para aprimorar aprendizados em Python com recursos AWS.</p>
 
-<h4 align="center">🚀 Em contrução... 🚧</h4>
+- Projeto com as práticas do curso Python Programming for AWS. Utilizado para aprimorar aprendizados em Python com recursos AWS.
 
-### Features
+
+### Módulos
 - [x] Learn Python programming fundamentals
 
 - [ ] Use Python with the AWS Boto3 SDK
@@ -26,5 +31,5 @@ As seguintes ferramentas foram usadas na construção do projeto
 - Boto 3
 - Recursos AWS
 
-#### Você pode praticar e aprender mais no link abaixo
+#### Você pode praticar e aprender mais no link abaixo:
 [Python Programming for AWS - Learn Python with AWS and Boto3](https://www.udemy.com/course/python-programming-for-aws-with-boto3/)
