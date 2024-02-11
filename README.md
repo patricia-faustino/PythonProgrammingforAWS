@@ -1,6 +1,6 @@
 <h1 > Python Programming for AWS - Learn Python with AWS and Boto3 </h1>
 
-<img width="120" height="120" alt="Browserslist logo by Anton Popov"
+<img width="120" height="120" alt="Python Icon"
      src="/assets/4518857_python_icon.png" align="right">
 
 ## Descrição do Projeto
