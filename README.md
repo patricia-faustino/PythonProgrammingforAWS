@@ -4,9 +4,7 @@
 <p>Projeto com as práticas do curso Python Programming for AWS.</p>
 <p>Utilizado para aprimorar aprendizados em Python com recursos AWS.</p>
 
-<h4 align="center">🚀 Em contrução... 🚧</h4>
-
-### Features
+### Módulos
 - [x] Learn Python programming fundamentals
 
 - [ ] Use Python with the AWS Boto3 SDK
