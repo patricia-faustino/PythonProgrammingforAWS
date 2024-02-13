@@ -1,5 +1,6 @@
 """Use a list of AWS services and demonstrate various loop operations"""
 
+
 def main():
     # List of AWS services
     aws_services = ['S3', 'Lambda', 'RDS', 'EC2', 'DynamoDB']
@@ -24,6 +25,7 @@ def main():
     print(f"\nUsing enumerate() with a for loop to get both index and value:")
     for index, service in enumerate(aws_services):
         print(f"Service # {index + 1}: {service}.")
+
 
 if __name__ == '__main__':
     main()

@@ -1,9 +1,10 @@
 """Create a lis of AWS service and modify the list appropriately"""
+
+
 def main():
     # Create a list of AWS Servcices
     aws_services = ['S3', 'Lambda', 'RDS', 'EC2', 'DynamoDB']
     print(f"AWS services list: {aws_services}")
-
 
     # Access the first service in the list
     first_service = aws_services[0]
@@ -29,10 +30,10 @@ def main():
     sliced_services = aws_services[1:3]
     print(f"Sliced services: {sliced_services}")
 
-
     # Find the length of the list
     list_length = len(aws_services)
     print(f"Length of the AWS services list: {list_length}")
+
 
 if __name__ == '__main__':
     main()

@@ -2,6 +2,7 @@
 Determines if a shopping list item is eligible for free shipping
 """
 
+
 def main():
     """Assignment operators"""
     # Set item_name, item_price, quantity, discount_rate, and eligible_items
@@ -29,7 +30,6 @@ def main():
 
     # print discount
     print(f"discount: {discount}")
-
 
     """Comparison operators"""
     # Check if discount is applied (discount > 0)
