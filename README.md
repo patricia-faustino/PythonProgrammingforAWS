@@ -14,9 +14,9 @@
 ### Módulos
 - [x] Learn Python programming fundamentals
 
-- [ ] Use Python with the AWS Boto3 SDK
+- [x] Use Python with the AWS Boto3 SDK
 
-- [ ] Automate tasks with AWS Lambda
+- [x] Automate tasks with AWS Lambda
 
 - [ ] Work hands-on with Amazon S3, Amazon EC2, Amazon VPC, and Amazon RDS
 
