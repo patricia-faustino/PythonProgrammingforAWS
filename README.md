@@ -18,7 +18,7 @@
 
 - [x] Automate tasks with AWS Lambda
 
-- [ ] Work hands-on with Amazon S3, Amazon EC2, Amazon VPC, and Amazon RDS
+- [x] Work hands-on with Amazon S3, Amazon EC2, Amazon VPC, and Amazon RDS
 
 - [ ] Explore advanced services like Amazon SNS, SQS, SES, AWS Glue, and Amazon EMR
 
