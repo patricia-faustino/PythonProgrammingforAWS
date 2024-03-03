@@ -8,7 +8,7 @@ import logging
 currency_conversion_to_usd = {"USD": 1, "CAD": 0.79, "MXN": 0.05}
 database_name = "rds_hol_db"
 secret_store_arn = ('arn:aws:secretsmanager:example_fimarn')
-db_cluster_arn = 'arn:aws:rds:example_fimar'
+db_cluster_arn = 'arn:aws:rds:example_fimarn'
 
 # Boto3 clients for AWS services
 s3_client = boto3.client('s3')
